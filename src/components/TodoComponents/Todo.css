@@ -1,0 +1,28 @@
+
+*{
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+    font-size: 150px;
+}
+
+.center {
+    display: flex;
+    margin: 0 auto;
+    font-size: 60px;
+    border: groove 10px grey;
+    width: 900px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.AddNewTodoStyle {
+    display: inline-flex;
+    /* border: solid red; */
+    font-size: 60px;
+    margin-left: 500px;
+
+}
