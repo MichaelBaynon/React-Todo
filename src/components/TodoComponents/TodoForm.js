@@ -22,7 +22,7 @@ class AddTodo extends Component {
             <div>
                 <form onSubmit={this.handleSubmit}>
                     <label className='AddNewTodoStyle'>Add a new ToDo here ➲</label>
-                    <input type='text' onChange={this.handleChange} value={this.state.content} />
+                    <input className='textBox' type='text' onChange={this.handleChange} value={this.state.content} />
                 </form>
             </div>
         )

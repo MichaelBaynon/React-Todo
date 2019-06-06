@@ -66,6 +66,6 @@
 
 - **Hosting** Create a [Netlify Account](https://www.netlify.com/) and follow the tutorial on how to host your shiny new todo app on the world wide web.
 
-:)
+:))
 
 

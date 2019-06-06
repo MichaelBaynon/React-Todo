@@ -7,6 +7,13 @@ h1 {
     color: crimson;
     text-align: center;
     font-size: 150px;
+    margin-bottom: -5px;
+    border: groove 10px greenyellow;
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    height: 190px;
 }
 
 .center {
@@ -16,13 +23,49 @@ h1 {
     border: groove 10px grey;
     width: 900px;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
 .AddNewTodoStyle {
     display: inline-flex;
     /* border: solid red; */
     font-size: 60px;
-    margin-left: 500px;
+    margin-left: 300px;
+    border: groove 10px palegoldenrod;
+    flex-wrap: wrap;
+    width: 700px;
+    justify-content: center;
 
 }
+
+.textBox {
+    display: inline-flex;
+    /* border: solid red; */
+    font-size: 60px;
+    /* margin-left: 500px; */
+    border: groove 10px dodgerblue;
+    /* margin-bottom: 100px; */
+    height: 110px;
+    justify-content: center;
+}
+
+.collection-item {
+    /* display: inline-flex; */
+    /* border: solid red; */
+    font-size: 40px;
+    /* margin-left: 500px; */
+    color: palevioletred;
+    /* margin-bottom: 100px; */
+    height: 110px;
+    margin-left: 400px;
+    /* padding: -20px; */
+    /* flex-direction: column; */
+
+}
+
+
+
+
+
+
+
